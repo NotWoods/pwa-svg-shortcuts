@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest",
+  "name": "PNG shortcuts",
+  "start_url": "/pwa-svg-shortcuts/png/",
+  "scope": "/pwa-svg-shortcuts/png/",
+  "shortcuts": [
+    {
+      "name": "Shortcut",
+      "url": "/pwa-svg-shortcuts/png/",
+      "icons": [
+        {
+          "src": "../clock_regular.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any monochrome"
+        }
+      ]
+    }
+  ]
+}
